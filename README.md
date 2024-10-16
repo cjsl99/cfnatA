@@ -28,9 +28,15 @@ CFnat-OpenWrt目仅供教育、研究和安全测试目的而设计和开发。�
 没有root请使用终端模拟器软件例如**MT管理器**，**termux**等
 
 第一步：下载cfnatA [点我下载](https://raw.githubusercontent.com/PoemMistyMoon/cfnatA/main/cfnatA.zip)
+
 第二步：把压缩包移动到```/data```文件夹，注意是根目录下面的```/data```
+
 第三步：解压到当前文件夹
+
 第四步：进入```/cfnatA```文件夹
+
 第五步：选择```启动.sh```,执行
+
 第六步：想关闭就执行```结束运行.sh```
+
 ### 运行不了给权限！！！
