@@ -1,4 +1,5 @@
-# CFnatA   使用教程在下面
+# CFnatA  
+## 使用教程在最下面 ##
 首先声明，这款软件并非我原创开发，而是目前了解到由一位神秘大佬在 [CF中转IP 频道](https://t.me/CF_NAT/38840) 发布的一款实时筛选 Cloudflare 数据中心的软件。我所编写的脚本是在这位开发者的原始版本基础上进行的**使方便小白操作的脚本**。
 
 CFNAT 是一款自动查找并优化 Cloudflare IP 转发的工具，旨在**解决泛播 IP 路由不稳定的问题**。如果你曾找到过速度不错的 Cloudflare IP，CFNAT 能帮助你快速筛选出最佳 IP 并实现端口转发，从而提升网络使用体验。因此，这款工具对于**移动、广电网络用户来说尤为明显**！
@@ -27,7 +28,7 @@ CFnatA目仅供教育、研究和安全测试目的而设计和开发。本项�
 ### 使用方法   要求手机有root权限！！！
 #### 需要你有一点点的操作手机基础，真的就一点点就行了
 #### 推荐使用**MT管理器**进行操作
-没有root请使用终端模拟器软件例如**MT管理器**，**termux**等
+没有root请使用终端模拟器软件例如**MT管理器**，**termux**等，推荐你查看 [CM博客的教程](https://cmliussss.com/p/cfnat/)
 
 第一步：下载cfnatA [点我下载](https://raw.githubusercontent.com/PoemMistyMoon/cfnatA/main/cfnatA.zip)
 
